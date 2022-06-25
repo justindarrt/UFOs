@@ -5,6 +5,8 @@ Dana wants to build a website of recorded UFO sightings. The website is styled u
 The goal of this project is to build a website using java script data and tools. This website displays a searchable user interactive table with multiple  criteria. 
 
 ## Analysis
+![pic_1](https://user-images.githubusercontent.com/103381098/175789447-36271aaf-ee10-49b0-b892-4ac7659ac0c4.png)
+![pic_2](https://user-images.githubusercontent.com/103381098/175789454-2af8c3d1-f38b-462b-bbe2-d9ff748bd927.png)
 
 ### Single Search Criteria
 The searchable table is very easy to use. For one search like state, just enter the state's two letter abbreviation in text box. Next, you can either select enter or click outside of text box. The table will automatically update with any matches.
